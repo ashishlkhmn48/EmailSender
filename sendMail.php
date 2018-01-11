@@ -1,3 +1,4 @@
+//This file to be put into your web server.
 <?php  
    $to = $_POST["to"];
    $subject = $_POST["subject"];  

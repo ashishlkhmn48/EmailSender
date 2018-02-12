@@ -19,3 +19,13 @@
 
 <h1>Apk of App</h1>
 <a href = "https://raw.githubusercontent.com/ashishlkhmn48/Email_Sender/master/images/emailsender.apk">Click to Download</a>
+
+<h1>Php Script</h1>
+<a href = "php/sendMail.php">Click to View</a>
+
+
+<h1>References</h1>
+  <ul>
+  <li>https://www.javatpoint.com/php-mail</li>
+  <li>https://developer.android.com/reference/org/w3c/dom/Document.html</li>
+</ul>
